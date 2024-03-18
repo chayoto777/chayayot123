@@ -36,4 +36,4 @@
 
 ## 🤝 Contact
 <a target="_blank" href="mailto:chayayotsae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://discordapp.com/users/264445724102492160"><img src="https://img.shields.io/badge/SiFeTiNe%237195-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
+<a target="_blank" href="https://discordapp.com/users/264445724102492160"><img src="https://img.shields.io/badge/Chaiyo%237195-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img></a>
