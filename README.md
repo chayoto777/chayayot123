@@ -31,8 +31,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📈 Github Status
-![chayayot777's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayayot777&theme=github_dark&show_icons=true)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayayot777&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![chayoto777's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayoto777&theme=github_dark&show_icons=true)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayoto777&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Contact
 <a target="_blank" href="mailto:chayayotsae@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
