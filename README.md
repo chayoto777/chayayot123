@@ -31,7 +31,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 ## 📈 Github Status
-![chayayot123's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayayot123&theme=github_dark&show_icons=true)<br>
+![chayayot777's GitHub stats](https://github-readme-stats.vercel.app/api?username=chayayot123&theme=github_dark&show_icons=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chayayot123&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Contact
